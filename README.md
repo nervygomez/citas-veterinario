@@ -1,6 +1,6 @@
 ### Descripción
 
-Proyecto inicial de aprendizaje de react.
+Proyecto inicial de aprendizaje de react.<br />
 mi primera aplicacion react de citas en el veterinario
 creación y eliminación de citas
 
